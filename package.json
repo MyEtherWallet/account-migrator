@@ -1,0 +1,30 @@
+{
+    "name": "account-migrator",
+    "version": "1.0.0",
+    "description": "util to migrate ethereum account including tokens to a new account",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MyEtherWallet/account-migrator.git"
+    },
+    "keywords": [
+        "ethereum",
+        "utils",
+        "tokens",
+        "erc20"
+    ],
+    "author": "kvhnuke",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MyEtherWallet/account-migrator/issues"
+    },
+    "homepage": "https://github.com/MyEtherWallet/account-migrator#readme",
+    "dependencies": {
+        "ethereumjs-util": "^5.1.5",
+        "node-fetch": "^2.1.2",
+        "web3": "^1.0.0-beta.33"
+    }
+}
