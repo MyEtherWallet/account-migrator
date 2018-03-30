@@ -32,7 +32,7 @@ npm start
 
 ## Authors
 
-* **kvhnuke** - *Initial work* - [PurpleBooth](https://github.com/kvhnuke)
+* **kvhnuke** - *Initial work* - [kvhnuke](https://github.com/kvhnuke)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
